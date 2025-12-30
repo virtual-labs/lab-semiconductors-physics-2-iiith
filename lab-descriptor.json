@@ -15,42 +15,42 @@
   "name": "Photon–Semiconductor Interactions",
   "short-name": "photon-semiconductor-interactions",
   "repo": "https://github.com/virtual-labs/exp-photon-semiconductor-interactions-iiith",
-  "tag": "v1.0.0",
+  "tag": "v1.0.1",
   "deploy": true
 },
 {
   "name": "Optoelectronics: Photodiodes, LEDs, and Solar Cells",
   "short-name": "optoelectronics-photodiodes-leds-solar-cells",
   "repo": "https://github.com/virtual-labs/exp-optoelectronics-photodiodes-iiith",
-  "tag": "v1.0.0",
+  "tag": "v1.0.1",
   "deploy": true
 },
 {
   "name": "Bipolar Junction Transistors (BJT)",
   "short-name": "bipolar-junction-transistors",
   "repo": "https://github.com/virtual-labs/exp-bipolar-junction-transistors-iiith",
-  "tag": "v1.0.0",
+  "tag": "v1.0.1",
   "deploy": true
 },
 {
   "name": "High-Speed Carrier Transport and Tunneling Devices",
   "short-name": "high-speed-carrier-transport-tunneling",
   "repo": "https://github.com/virtual-labs/exp-high-speed-transport-tunneling-iiith",
-  "tag": "v1.0.0",
+  "tag": "v1.0.1",
   "deploy": true
 },
 {
   "name": "MOS Capacitance",
   "short-name": "mos-capacitance",
   "repo": "https://github.com/virtual-labs/exp-mos-capacitors-iiith",
-  "tag": "v1.0.0",
+  "tag": "v1.0.1",
   "deploy": true
 },
 {
   "name": "Metal–Semiconductor Junction",
   "short-name": "metal-semiconductor-junction",
   "repo": "https://github.com/virtual-labs/exp-metal-semiconductor-junctions-iiith",
-  "tag": "v1.0.0",
+  "tag": "v1.0.1",
   "deploy": true
 }
     ],
